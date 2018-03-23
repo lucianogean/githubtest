@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TestProjetoExistente
 {
-    public class Class1
+    class Class2
     {
     }
 }
