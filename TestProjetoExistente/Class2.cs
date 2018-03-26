@@ -7,6 +7,6 @@ namespace TestProjetoExistente
 {
     public class Class2
     {
-    	// change
+    	// change 2
     }
 }
